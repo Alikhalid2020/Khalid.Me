@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:lanrakhaled@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/khalid-ali-4489581ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5f3dGO90Q9qbhKhcssNvig%3D%3D/)
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=EidAbdullahi"></a>
-:wave: Hi there, My name is Khalid Ali.:grinning: I'm 20 years old, I'm a Software Engineer/Fullstack Developer.
+:wave: Hi there, My name is Khalid Ali.:grinning: I'm 23 years old, I'm a Software Engineer/Fullstack Developer.
 I've profound knowledge in Django Framework, Software Development.
 Currently, I graduated from Moringa School As a Software Developer.
 I'm interested in engaging, identifying, designing, installing and testing a software system.
